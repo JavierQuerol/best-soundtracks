@@ -3,10 +3,16 @@ Best soundtracks of all times.
 - [Hans Zimmer](#hans-zimmer)
 - [Basil Poledouris](#basil-poledouris)
 - [Vangelis](vangelis)
+- [M83](#m83)
+- [Cliff Martinez](#cliff-martinez)
 
 ## Hans Zimmer
 
 * The Dark Knight: [Spotify](http://open.spotify.com/artist/3EIp6BdK377zECKKgW0FSP) -  [iTunes](https://itunes.apple.com/us/album/dark-knight-original-motion/id284530501) -  [Grooveshark](http://grooveshark.com/#!/album/The+Dark+Knight/2048326)
+
+* Inception: [Spotify](http://open.spotify.com/album/2qvA7HmSg1iM6XMiFF76dp) -
+[iTunes](https://itunes.apple.com/es/album/inception-music-from-motion/id380349905) -
+[Grooveshark](http://grooveshark.com/#!/album/Inception/4685728)
 
 ## Basil Poledouris 
 
@@ -21,3 +27,15 @@ Best soundtracks of all times.
 * 1492 Conquest of Paradise: [Spotify](http://open.spotify.com/user/hniel/playlist/5Me1wgcxL07H9DqZvRqErq) -  [iTunes](https://itunes.apple.com/es/album/1492-conquest-paradise-soundtrack/id41297647) -  [Grooveshark](http://grooveshark.com/#!/album/1492/3949320)
 
 * Alexander: [Spotify](http://open.spotify.com/album/4znQpOW0WhreuYyRJSLyw0) -  [iTunes](https://itunes.apple.com/es/album/alexander-original-motion/id158043498) -  [Grooveshark](http://grooveshark.com/#!/album/Alexander+OST/788070)
+
+## M83
+
+* Oblivion: [Spotify](http://open.spotify.com/user/1279267496/playlist/6MJ4IZCPYFU0OnzpSyhtda) -
+[iTunes](https://itunes.apple.com/es/album/oblivion-original-motion-picture/id617141516) -
+[Grooveshark](http://grooveshark.com/#!/album/Oblivion+Original+Motion+Picture+Soundtrack/9242710)
+
+## Cliff Martinez
+
+* Drive: [Spotify](http://open.spotify.com/album/1XyEkVYVt6Q7SJHb5e8IrI) -
+[iTunes](https://itunes.apple.com/es/album/drive-original-motion-picture/id454879420) -
+[Grooveshark](http://grooveshark.com/#!/album/Drive/7024337)
